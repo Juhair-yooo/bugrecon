@@ -13,7 +13,7 @@
 ## ⚡ What It Does
 
 You give it a domain. It gives you:
-
+- **First of all the owner of this item is juhair
 - **Every vulnerability found**, line by line — type, technique used, URL, parameter, payload, CVSS score, CWE ID
 - **Subdomain enumeration** from crt.sh, HackerTarget, AlienVault OTX, CommonCrawl + DNS brute-force
 - **Port scanning** with banner grabbing and dangerous-port warnings
