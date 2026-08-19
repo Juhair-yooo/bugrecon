@@ -7,7 +7,7 @@
 ██████╔╝╚██████╔╝╚██████╔╝██████╔╝╚██████╔╝╚██████╔╝██║ ╚████║   ██║      ██║   
 ╚═════╝  ╚═════╝  ╚═════╝ ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝   ╚═╝      ╚═╝  
                         Bug Bounty Reconnaissance Framework
-                        Author: Jarir | Version: 2.0.0
+                        Author: JUhair | Version: 2.0.0
 """
 
 import argparse
