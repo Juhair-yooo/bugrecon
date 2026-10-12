@@ -42,7 +42,7 @@ You give it a domain. It gives you:
 
 ```bash
 # Clone
-git clone https://github.com/yourusername/bugrecon.git
+git clone https://github.com/Juhair-yooo/bugrecon.git
 cd bugrecon
 
 # Install dependencies
